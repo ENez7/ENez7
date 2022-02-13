@@ -1,16 +1,14 @@
-### Hi there 👋
+![8-Bit-Wallpaper-80-images](https://user-images.githubusercontent.com/27792588/153758659-bb610dc5-604e-410e-a5c5-f7d136b7da7c.jpg)
 
-<!--
-**ENez7/ENez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there, I'm Enrique and currently I'm very interested in mobile development. I'm learning through the hybrid pathway
+so you can be sure you'll see a lot of flutter repos. Most of them are made just for fun or learn something specific. And maybe
+just for skills' demonstration. Ignore commits messages, I just don't know what to say for personal and funny projects 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below you'll see a brief summary of languages I've worked with
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enez7&layout=compact&theme=vue-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats) 
+
+And what I've earned up to this point
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enez7&theme=vue-dark&show_icons=true)
