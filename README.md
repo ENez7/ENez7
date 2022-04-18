@@ -2,8 +2,10 @@
 
 
 Hi there, I'm Enrique and currently I'm very interested in mobile development. I'm learning through the hybrid pathway
-so you can be sure you'll see a lot of flutter repos. Most of them are made just for fun or learn something specific. And maybe
-just for skills' demonstration. Ignore commits messages, I just don't know what to say for personal and funny projects 🤔
+so you can be sure you'll see a lot of Flutter repos. Most of them are made just for fun or learn something specific. And maybe
+just for skills demonstration. Ignore my commits' messages, I just don't know what to say for personal projects 🤔
+
+Take a look at my ![Gists](https://gist.github.com/ENez7)
 
 Below you'll see a brief summary of languages I've worked with
 
