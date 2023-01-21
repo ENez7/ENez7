@@ -11,6 +11,6 @@ Below you'll see a brief summary of languages I've worked with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enez7&layout=compact&theme=vue-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats) 
 
-And what I've earned up to this point 😎 and my failed attempts too
+And what I've earned up to this point 😎 and my failed attempts too (or see my stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enez7&theme=vue-dark&show_icons=true)
