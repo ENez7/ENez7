@@ -1,9 +1,11 @@
 ![8-Bit-Wallpaper-80-images](https://user-images.githubusercontent.com/27792588/153758659-bb610dc5-604e-410e-a5c5-f7d136b7da7c.jpg)
 
+Hi there, I'm Enrique and I love backend development using .NET. Currently, I am expanding my knowledge by learning Angular, with the goal
+of becoming a more successful developer. Also, I have developed many applications using Flutter as framework. I am driven by a passion for improvement
+and excellence and I am enthusiastic about using new technologies and looking for new ways to do things. I am constantly seeking innovative solutions
+to challenges and I am confident that my resilience is one of my key strengths.
 
-Hi there, I'm Enrique and currently I'm very interested in mobile development. I'm learning through the hybrid pathway
-so you can be sure you'll see a lot of Flutter repos. Most of them are made just for fun or learn something specific. And maybe
-just for skills demonstration. Ignore my commits' messages, I just don't know what to say for personal projects 🤔
+That's all for now, may God be with you and he may bless you 👼
 
 Take a look at my [Gists](https://gist.github.com/ENez7)
 
