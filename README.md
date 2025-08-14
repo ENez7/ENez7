@@ -5,7 +5,7 @@ of becoming a more successful engineer. Also, I have developed many applications
 and excellence and I am enthusiastic about using new technologies and looking for new ways to do things. I am constantly seeking innovative solutions
 to challenges and I am confident that my resilience is one of my key strengths.
 
-That's all for now, may God be with you and he may bless you 👼
+That's all for now, may God be with you and He may bless you 👼
 
 Take a look at my [Gists](https://gist.github.com/ENez7)
 
